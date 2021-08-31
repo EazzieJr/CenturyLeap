@@ -23,4 +23,4 @@ window.onload = () => {
 window.onload(setTimeout(() => {
     view.classList.remove('s');
     body.classList.remove('body');
-}, 12000));
+}, 13000));
