@@ -14,7 +14,7 @@
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^4.0.3",
     "fonts": "0.0.2",
-    "postcss": "^8.3.6"
+    "postcss": "^8.3.9"
   },
   "devDependencies": {
     "autoprefixer": "^9.8.6",
